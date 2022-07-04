@@ -1,0 +1,20 @@
+.contain {
+    min-width: 300px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.wrap {
+    width: 98%;
+    margin: 10px auto;
+    border: 3px solid #023683de;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
